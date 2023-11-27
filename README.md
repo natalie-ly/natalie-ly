@@ -1,5 +1,5 @@
-## 👋 Hi, I’m Natalie - a 3rd year Computer Engineering student [@uWaterloo](https://github.com/uWaterloo)<br />!
-- 👀 I’m currently seeking Summer 2024 internships 
+## 👋 Hi, I’m Natalie - a 3rd year Computer Engineering student [@uWaterloo](https://github.com/uWaterloo)!
+- 👀 I’m currently seeking Summer 2024 internships (Prev Coops: System1, BlackBerry)
 - 🌱 I want to learn more about game development and AI
 - 👩‍💻 My coding languages include C/C++, Javascript, Typescript, HTML/CSS, and Java
 - 📫 Lets connect: [LinkedIn](https://www.linkedin.com/in/natalie-ly-/ ).<br /> 
