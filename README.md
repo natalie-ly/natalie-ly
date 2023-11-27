@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Natalie!
-- 👀 I’m interested in working on impactful projects
-- 🌱 I want to learn more about game development
+## 👋 Hi, I’m Natalie - a 3rd year Computer Engineering student [@uWaterloo](https://github.com/uWaterloo).<br /> !
+- 👀 I’m currently seeking Summer 2024 internships 
+- 🌱 I want to learn more about game development and AI
 - 👩‍💻 My coding languages include C/C++, Javascript, Typescript, HTML/CSS, and Java
-- 📫 Lets connect: https://www.linkedin.com/in/natalie-ly-/
-      or email me: n6ly@uwaterloo.ca
+- 📫 Lets connect: [LinkedIn](https://www.linkedin.com/in/natalie-ly-/ ).<br /> 
+      Email me: n6ly@uwaterloo.ca
+
+![](https://komarev.com/ghpvc/?username=natalie-ly&color=blue)</h1> 
 
 <!---
 natalie-ly/natalie-ly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+to display top languages used: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalie-ly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
