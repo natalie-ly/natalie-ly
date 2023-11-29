@@ -37,6 +37,8 @@
 ### 📊Github Stats:
 ![](https://komarev.com/ghpvc/?username=natalie-ly&color=blue)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=natalie-ly&theme=tokyonight" alt="mystreak"/>
+
 [![Natalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalie-ly)](https://github.com/natalie-ly/github-readme-stats)
 
 <!---
