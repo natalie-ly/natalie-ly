@@ -3,7 +3,7 @@
 - 🌱 I'm interested in game development and AI and want to learn more about it
 - 🥏 I spend a lot of my time throwing plastic discs
 
-<h3> 📬Connect with me: <a href="https://linkedin.com/in/natalie-ly-/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="n6ly@uwaterloo.ca" /></a> <a href="mailto:n6ly@uwaterloo.ca" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>  </h3>
+<h3> 📬Connect with me: <a href="https://linkedin.com/in/natalie-ly-/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="n6ly@uwaterloo.ca" /></a> <a href="mailto:n6ly@uwaterloo.ca" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="n6ly@uwaterloo.ca"></a>  </h3>
 
 ***
 
