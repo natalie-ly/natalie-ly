@@ -37,9 +37,9 @@
 ### 📊Github Stats:
 ![](https://komarev.com/ghpvc/?username=natalie-ly&color=blue)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=natalie-ly&theme=tokyonight" alt="mystreak"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalie-ly&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Natalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalie-ly)](https://github.com/natalie-ly/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=natalie-ly&theme=tokyonight" alt="mystreak"/> [![Natalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalie-ly)](https://github.com/natalie-ly/github-readme-stats)
 
 <!---
 natalie-ly/natalie-ly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
