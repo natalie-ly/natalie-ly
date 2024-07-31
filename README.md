@@ -15,6 +15,7 @@
       <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Burp%20Suite-202020?style=for-the-badge&logo=appveyor&logoColor=white" alt="Burp Suite Badge"/>
 </div>
 <div>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
