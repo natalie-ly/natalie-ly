@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Natalie - a 3rd year Computer Engineering student [@uWaterloo](https://github.com/uWaterloo)!
-- 👀 I’m currently a SWE intern at Salesforce in Seattle (Prev Coops: System1, BlackBerry) - I'm seeking Winter 2025 Internships
+- 👀 I’m currently seeking Winter 2025 Internships (Prev Coops: Salesforce, System1, BlackBerry)
 - 🌱 I'm interested in game development and AI and want to learn more about it
 - 🥏 I spend a lot of my time throwing plastic discs
 
